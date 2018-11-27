@@ -1,42 +1,30 @@
 <img src=https://github.com/you6878/howlstagram/blob/master/images/intro.png width="200"> <img src=https://github.com/you6878/howlstagram/blob/master/images/main.png width="200"> <img src=https://github.com/you6878/howlstagram/blob/master/images/userpage.png width="200"> <img src=https://github.com/you6878/howlstagram/blob/master/images/detailpage.png width="200">
 
 
-■Firebase로 안드로이드 SNS 앱 만들기■
+안녕하세요
 
--당신도 인스타그램 앱을 만들 수 있다-
+Howlstaram(https://github.com/you6878/howlstagram) V3.0 앱 커밋터 모집합니다.
 
-예전에는 안드로이드 환경에서 앱만 만들어서는 안되고 서버도 같이 만들어야 했습니다. 서버를 구현하지 못한다면 아무리 코딩 능력이 좋아도 정말 필요한 앱을 만들 수가 없었던 것입니다. 하지만 Firebase가 출시되면서 프론트엔드 개발자 즉 안드로이드 앱 개발자도 서버를 구축할 수 있게 되었습니다.
-이 책은 Firebase의 기본적인 기능부터 실제로 사용되는 Firebase 코드들이 정리되어 있으며, Firebase에서 가장 많이 쓰이는 Authendication(인증), Database(데이터베이스), Storage(저장소) 사용법이 정리되어 있습니다.
-이제는 서버를 만들기 위해서 AWS이나 Auzre에서 서버를 구매하거나 직접 힘들게 Tomcat, FTP, Mysql이나 Oracle 데이터베이스를 구축할 필요가 없습니다. 안드로이드 프론트엔드 개발자라면 이 책을 통해 Firebase로 원하는 모든 것을 손쉽게 만들 수가 있습니다.
+안드로이드의 Howlstaram V3.0을 만들 예정입니다.  
 
-▶이 책의 특징
-- 새롭게 도입된 Firestore와 코틀린 환경을 기반으로 설명하였다. 
-- 프론트엔드 개발자도 쉽게 서버를 구성하는 방법을 안내한다. 
-- SNS 앱 만들기 예제를 통해 전반적인 개발 과정을 쉽게 이해한다.
+더 이상 Howlstaram 코드가 더 이상 "나"의 코드가 아닌 "우리" 코드가  되도록 할 예정입니다.
 
-▶이 책이 필요한 독자
-- Firebase가 무엇인지 알고 싶은 독자 
-- 기초적인 안드로이드 앱을 개발해보려는 독자 
-- 이론적인 내용보다 실무적인 부분을 배우고 싶은 독자
+저만 개발하는 것이 아닌 소스코드에 관심있는 컨트리뷰터, 커밋터들을 통해서 여러분들이 수정할 수 있도록 계획할 예정입니다.
 
-▶구입
-- 예스24 (http://www.yes24.com/24/goods/62495788)
 
-▶자바 소스코드(개발자 권병수)
+다른 사람들에게 좋은 코드를 공유하고 좀 더 좋은 개발환경 생태계를 만들고 분이나 커밋터를 
+통해서 자신의 포트폴리오나 실력을 쌓고 howlstaram의 소스코드 부족했던 부분을 수정하고 하고 싶은분
+많은 참여 바랍니다.
 
-하울스타그램 v1.0(https://github.com/stack07142/firebase-photos)
- - RealTimeDatabase
- - Facebook, GoogleLogin, Email Login
- - Java 언어
- 
-📖 저작권
+깃허브를 통해서 커밋 예정
 
- - 저작권이 없는 공개 코드입니다. 이 코드로 수익을 창출하셔도 이의를 제기를 하지 않습니다. 
- - 소스코드 이용시 책을 구매하시거나 앱 정보란에 Howlstram 주소를 공유해주세요
- 
- 
-소스코드 공개 목적은 "한국이라 나라에서 코딩을 하는 사람들이 좀 더 좋은 코드를 배울 수 환경과 지식"을 위한 것 입니다.
-저의 코드를 참고해서 더 좋은 코드를 만들어서 Fork 해주시길 바랍니다.
+네이버 "하울의 코딩 채널" 카페
+
+커밋터가 되는 방법
+
+1. 개시글 10개, 덧글 10개, 출석 10개 - 커밋터 등급
+2. 커밋터 신청
+
 
 👉 유튜브 "하울의 코딩 채널" 많은 구독부탁드립니다.
  
